@@ -21,10 +21,10 @@ export PATH=$PATH:/home/linuxbrew/.linuxbrew/bin
 # Go
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/Code/golang
-export PATH=$GOROOT/bin:$GOPATH/bin:$PATH
+export PATH=$GOROOT/bin:$PATH
+export PATH=$GOPATH/bin:$PATH
 export GO111MODULE=on
 export GOPROXY=https://goproxy.cn
-export PATH=$PATH:/usr/local/go/bin
 
 # pip
 export PATH=$PATH:$HOME/.local/bin
