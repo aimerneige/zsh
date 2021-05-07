@@ -18,3 +18,4 @@
 source $HOME/.config/zsh/alias_config.sh
 source $HOME/.config/zsh/path_config.sh
 source $HOME/.config/zsh/proxy_config.sh
+source $HOME/.config/zsh/other_config.sh
