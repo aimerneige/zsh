@@ -26,11 +26,11 @@ export PATH=$GOPATH/bin:$PATH
 export GO111MODULE=on
 export GOPROXY=https://goproxy.cn
 
-# pip
+# pip binary
 export PATH=$PATH:$HOME/.local/bin
 
 # NDK
 export ANDROID_NDK_HOME=$HOME/Android/Sdk/ndk/22.1.7171670/
 
 # flutter
-export PATH=/usr/local/flutter/bin:$PATH
+export PATH=$HOME/sdk/flutter/bin:$PATH
