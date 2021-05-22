@@ -31,3 +31,6 @@ export PATH=$PATH:$HOME/.local/bin
 
 # NDK
 export ANDROID_NDK_HOME=$HOME/Android/Sdk/ndk/22.1.7171670/
+
+# flutter
+export PATH=/usr/local/flutter/bin:$PATH
