@@ -39,3 +39,6 @@ export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 
 # Android platform tools
 export PATH=/home/aimerneige/Android/Sdk/platform-tools:$PATH
+
+# snap
+export PATH=/snap/bin:$PATH
