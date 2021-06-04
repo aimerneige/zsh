@@ -6,4 +6,6 @@ Personal zsh config.
 
 ## Usage
 
-Add `source $HOME/.config/zsh/core_config.sh` to your zshrc file
+```bash
+rm -rf $HOME/.config/zsh && git clone https://github.com/aimerneige/zsh.git $HOME/.config/zsh && echo "source $HOME/.config/zsh/core_config.sh" >> $HOME/.zshrc && source $HOME/.zshrc
+```
