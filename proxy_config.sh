@@ -15,6 +15,9 @@
 # Email  aimer.neige@aimerneige.com
 # GitHub https://github.com/AimerNeige
 
+# !!!! Warning !!!!
+# As differnent pc will have different requirement to proxy.
+# You should edit this manully and should record it into git.
 
 # export https_proxy=socks5://127.0.0.1:1080
 # export http_proxy=socks5://127.0.0.1:1080
