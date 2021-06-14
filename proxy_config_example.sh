@@ -28,4 +28,4 @@
 # export all_proxy=socks5://127.0.0.1:1080
 # export all_proxy=http://127.0.0.1:1080
 
-no_proxy=localhost, 127.0.0.1
+export no_proxy="localhost, 127.0.0.1, *.baidu.com"
