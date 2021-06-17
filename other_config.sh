@@ -11,3 +11,6 @@
 # /____|____/|_| |_|_| \_\\____|  \___/ \__|_| |_|\___|_|   
 
 export TERM=xterm-256color
+
+export VISUAL=nvim
+export EDITOR="$VISUAL"
