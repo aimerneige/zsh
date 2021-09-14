@@ -6,13 +6,9 @@ Personal zsh config.
 
 ## Usage
 
-Clone this repo and add it into your zshrc file.
+Clone this repo and add run `install.sh`.
 
-```bash
-rm -rf $HOME/.config/zsh && git clone https://github.com/aimerneige/zsh.git $HOME/.config/zsh && echo "source $HOME/.config/zsh/core_config.sh" >> $HOME/.zshrc && source $HOME/.zshrc
-```
-
-Edit your own proxy config.
+Set proxy settings.
 
 ```bash
 cp proxy_config_example.sh proxy_config.sh
