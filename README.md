@@ -8,6 +8,10 @@ Personal zsh config.
 
 Clone this repo and add run `install.sh`.
 
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/aimerneige/zsh/master/install.sh)"
+```
+
 Set proxy settings.
 
 ```bash
