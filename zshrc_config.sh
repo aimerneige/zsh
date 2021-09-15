@@ -22,7 +22,6 @@ ZSH_THEME="spaceship"
 
 DISABLE_UPDATE_PROMPT="true"
 export UPDATE_ZSH_DAYS=30
-ENABLE_CORRECTION="true"
 HIST_STAMPS="yyyy/mm/dd"
 
 source $ZSH/oh-my-zsh.sh
