@@ -15,6 +15,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/aimerneige/zsh/master/inst
 Set proxy settings.
 
 ```bash
-cp proxy_config_example.sh proxy_config.sh
-vim proxy_config.sh
+cp ~/.config/zsh/proxy_config_example.sh ~/.config/zsh/proxy_config.sh
+vim ~/.config/zsh/proxy_config.sh
 ```
