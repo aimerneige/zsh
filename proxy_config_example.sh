@@ -20,11 +20,11 @@
 # As differnent pc will have different requirement to proxy.
 # You should edit this manully and should not record it into git.
 
-export https_proxy=socks5://127.0.0.1:1080
-export http_proxy=socks5://127.0.0.1:1080
+# export https_proxy=socks5://127.0.0.1:1080
+# export http_proxy=socks5://127.0.0.1:1080
 
-# export https_proxy=http://127.0.0.1:1080
-# export http_proxy=http://127.0.0.1:1080
+export https_proxy=http://127.0.0.1:1080
+export http_proxy=http://127.0.0.1:1080
 
 # export all_proxy=socks5://127.0.0.1:1080
 # export all_proxy=http://127.0.0.1:1080

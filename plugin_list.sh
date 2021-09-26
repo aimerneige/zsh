@@ -16,4 +16,10 @@
 # GitHub https://github.com/AimerNeige
 
 
-plugins=(git)
+plugins=(
+    adb
+    git
+    emoji
+    sublime
+    zsh-autosuggestions
+)

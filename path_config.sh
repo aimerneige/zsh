@@ -40,8 +40,18 @@ export PATH=/usr/local/flutter/bin:$PATH
 export PUB_HOSTED_URL=https://pub.flutter-io.cn
 export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 
-# Android platform tools
+# Android
 export PATH=/home/aimerneige/Android/Sdk/platform-tools:$PATH
+export PATH=/home/aimerneige/Android/Sdk/cmdline-tools/latest/bin:$PATH
 
 # snap
 export PATH=/snap/bin:$PATH
+
+# gradle
+export GRADLE_HOME=/opt/gradle
+# export GRADLE_USER_HOME=/home/aimerneige/gradle
+export PATH=$GRADLE_HOME/bin:$PATH
+
+# maven
+export MAVEN_HOME=/opt/maven
+export PATH=$MAVEN_HOME/bin:$PATH
