@@ -15,7 +15,6 @@
 # GitHub https://github.com/AimerNeige
 
 
-source $HOME/.config/zsh/plugin_list.sh
 source $HOME/.config/zsh/alias_config.sh
 source $HOME/.config/zsh/path_config.sh
 source $HOME/.config/zsh/proxy_config.sh

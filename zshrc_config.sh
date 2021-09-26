@@ -20,6 +20,8 @@ export ZSH="/home/aimerneige/.oh-my-zsh"
 
 ZSH_THEME="spaceship"
 
+source $HOME/.config/zsh/plugin_list.sh
+
 DISABLE_UPDATE_PROMPT="true"
 export UPDATE_ZSH_DAYS=30
 HIST_STAMPS="yyyy/mm/dd"
