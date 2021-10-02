@@ -55,3 +55,7 @@ export PATH=$GRADLE_HOME/bin:$PATH
 # maven
 export MAVEN_HOME=/opt/maven
 export PATH=$MAVEN_HOME/bin:$PATH
+
+# spring boot cli
+export SPRING_HOME=/opt/spring
+export PATH=$SPRING_HOME/bin:$PATH
