@@ -18,7 +18,7 @@
 
 export ZSH="/home/aimerneige/.oh-my-zsh"
 
-ZSH_THEME="spaceship"
+ZSH_THEME="eastwood"
 
 source $HOME/.config/zsh/plugin_list.sh
 
