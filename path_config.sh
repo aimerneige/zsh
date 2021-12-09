@@ -27,7 +27,7 @@ export GOPATH=$HOME/golang
 export PATH=$GOROOT/bin:$PATH
 export PATH=$GOPATH/bin:$PATH
 export GO111MODULE=on
-# export GOPROXY=https://goproxy.cn
+export GOPROXY=https://goproxy.cn
 
 # pip binary
 export PATH=$PATH:$HOME/.local/bin
