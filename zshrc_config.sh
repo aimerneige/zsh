@@ -16,7 +16,7 @@
 # GitHub https://github.com/AimerNeige
 
 
-export ZSH="/home/aimerneige/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 ZSH_THEME="eastwood"
 
@@ -28,4 +28,4 @@ HIST_STAMPS="yyyy/mm/dd"
 
 source $ZSH/oh-my-zsh.sh
 
-source /home/aimerneige/.config/zsh/core_config.sh
+source $HOME/.config/zsh/core_config.sh
