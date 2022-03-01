@@ -16,6 +16,7 @@
 
 
 alias c="clear"
+alias cb="cd .."
 alias cls="clear"
 alias sss="ssr start"
 alias sst="ssr stop"
