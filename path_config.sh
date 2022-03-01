@@ -41,11 +41,21 @@ export PUB_HOSTED_URL=https://pub.flutter-io.cn
 export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 
 # Android
-export PATH=/home/aimerneige/Android/Sdk/platform-tools:$PATH
-export PATH=/home/aimerneige/Android/Sdk/cmdline-tools/latest/bin:$PATH
+export ANDROOID_SDK_HONE=$HOME/Android/Sdk
+export PATH=$ANDROOID_SDK_HONE/platform-tools:$PATH
+export PATH=$ANDROOID_SDK_HONE/cmdline-tools/latest/bin:$PATH
 
 # snap
 export PATH=/snap/bin:$PATH
+
+# Java
+export JAVA_HOME=$HOME/.jdks/openjdk-17.0.1
+
+# nodejs
+NODE_VERSION=v16.14.0
+NODE_DISTRO=linux-x64
+NODE_ROOT=/usr/local/lib/nodejs
+export PATH=$NODE_ROOT/node-$NODE_VERSION-$NODE_DISTRO/bin:$PATH
 
 # gradle
 export GRADLE_HOME=/opt/gradle
