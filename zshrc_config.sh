@@ -18,7 +18,7 @@
 
 export ZSH="$HOME/.oh-my-zsh"
 
-ZSH_THEME="eastwood"
+ZSH_THEME="frisk"
 
 source $HOME/.config/zsh/plugin_list.sh
 
