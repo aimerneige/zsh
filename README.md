@@ -12,9 +12,8 @@ Clone this repo and add run `install.sh`.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aimerneige/zsh/master/install.sh)"
 ```
 
-Set proxy settings.
+Install the zsh-autosuggestions
 
-```bash
-cp ~/.config/zsh/proxy_config_example.sh ~/.config/zsh/proxy_config.sh
-vim ~/.config/zsh/proxy_config.sh
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
