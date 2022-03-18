@@ -21,6 +21,9 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 # Homebrew
 export PATH=$PATH:/home/linuxbrew/.linuxbrew/bin
 
+# StarShip
+export STARSHIP_CONFIG=$HOME/.config/zsh/starship/starship.toml
+
 # Go
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/golang
