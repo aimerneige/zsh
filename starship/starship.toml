@@ -1,1 +1,18 @@
+add_newline = true
+
+[character]
+success_symbol = "[➜](bold green)"
+error_symbol = "[➜](bold red)"
+
+[username]
+style_user = "green bold"
+style_root = "red bold"
+format = "[$user]($style)@"
+disabled = false
+show_always = true
+
+[hostname]
+ssh_only = false
+format = "[$hostname](bold dimmed blue) "
+disabled = false
 
