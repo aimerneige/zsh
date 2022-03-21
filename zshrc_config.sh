@@ -31,3 +31,5 @@ source $ZSH/oh-my-zsh.sh
 source $HOME/.config/zsh/core_config.sh
 
 eval "$(starship init zsh)"
+
+fortune
