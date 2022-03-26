@@ -24,6 +24,9 @@ export PATH=$PATH:/home/linuxbrew/.linuxbrew/bin
 # StarShip
 export STARSHIP_CONFIG=$HOME/.config/zsh/starship/starship.toml
 
+# InkDrop
+export PATH=/usr/lib/inkdrop/resources/app/ipm/bin:$PATH
+
 # Go
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/golang
