@@ -58,7 +58,7 @@ export PATH=/snap/bin:$PATH
 export JAVA_HOME=$HOME/.jdks/openjdk-17.0.1
 
 # nodejs
-NODE_VERSION=v16.14.0
+NODE_VERSION=v16.14.2
 NODE_DISTRO=linux-x64
 NODE_ROOT=/usr/local/lib/nodejs
 export PATH=$NODE_ROOT/node-$NODE_VERSION-$NODE_DISTRO/bin:$PATH
