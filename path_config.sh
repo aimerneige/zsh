@@ -29,7 +29,7 @@ export PATH=/usr/lib/inkdrop/resources/app/ipm/bin:$PATH
 
 # Go
 export GOROOT=/usr/local/go
-export GOPATH=$HOME/golang
+export GOPATH=$HOME/.golang
 export PATH=$GOROOT/bin:$PATH
 export PATH=$GOPATH/bin:$PATH
 export GO111MODULE=on
