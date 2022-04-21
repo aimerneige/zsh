@@ -17,6 +17,7 @@
 
 
 plugins=(
+    k
     adb
     git
     emoji
