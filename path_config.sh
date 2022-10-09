@@ -58,7 +58,7 @@ export PATH=/snap/bin:$PATH
 export JAVA_HOME=$HOME/.jdks/openjdk-17.0.1
 
 # nodejs
-NODE_VERSION=v16.14.2
+NODE_VERSION=v16.16.0
 NODE_DISTRO=linux-x64
 NODE_ROOT=/usr/local/lib/nodejs
 export PATH=$NODE_ROOT/node-$NODE_VERSION-$NODE_DISTRO/bin:$PATH
@@ -75,3 +75,6 @@ export PATH=$MAVEN_HOME/bin:$PATH
 # spring boot cli
 export SPRING_HOME=/opt/spring
 export PATH=$SPRING_HOME/bin:$PATH
+
+# spicetify
+export PATH=$PATH:$HOME/.spicetify
