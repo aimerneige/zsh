@@ -23,4 +23,5 @@ plugins=(
     emoji
     sublime
     zsh-autosuggestions
+    zsh-syntax-highlighting
 )
