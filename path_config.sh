@@ -39,42 +39,42 @@ export GOPROXY=https://goproxy.cn
 export PATH=$PATH:$HOME/.local/bin
 
 # NDK
-export ANDROID_NDK_HOME=$HOME/Android/Sdk/ndk/22.1.7171670/
+# export ANDROID_NDK_HOME=$HOME/Android/Sdk/ndk/22.1.7171670/
 
 # flutter
-export PATH=/usr/local/flutter/bin:$PATH
-export PUB_HOSTED_URL=https://pub.flutter-io.cn
-export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+# export PATH=/usr/local/flutter/bin:$PATH
+# export PUB_HOSTED_URL=https://pub.flutter-io.cn
+# export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 
 # Android
-export ANDROOID_SDK_HONE=$HOME/Android/Sdk
-export PATH=$ANDROOID_SDK_HONE/platform-tools:$PATH
-export PATH=$ANDROOID_SDK_HONE/cmdline-tools/latest/bin:$PATH
+# export ANDROOID_SDK_HONE=$HOME/Android/Sdk
+# export PATH=$ANDROOID_SDK_HONE/platform-tools:$PATH
+# export PATH=$ANDROOID_SDK_HONE/cmdline-tools/latest/bin:$PATH
 
 # snap
-export PATH=/snap/bin:$PATH
+# export PATH=/snap/bin:$PATH
 
 # Java
-export JAVA_HOME=$HOME/.jdks/openjdk-17.0.1
+# export JAVA_HOME=$HOME/.jdks/openjdk-17.0.1
 
 # nodejs
-NODE_VERSION=v16.16.0
-NODE_DISTRO=linux-x64
-NODE_ROOT=/usr/local/lib/nodejs
-export PATH=$NODE_ROOT/node-$NODE_VERSION-$NODE_DISTRO/bin:$PATH
+# NODE_VERSION=v16.16.0
+# NODE_DISTRO=linux-x64
+# NODE_ROOT=/usr/local/lib/nodejs
+# export PATH=$NODE_ROOT/node-$NODE_VERSION-$NODE_DISTRO/bin:$PATH
 
 # gradle
-export GRADLE_HOME=/opt/gradle
+# export GRADLE_HOME=/opt/gradle
 # export GRADLE_USER_HOME=/home/aimerneige/gradle
-export PATH=$GRADLE_HOME/bin:$PATH
+# export PATH=$GRADLE_HOME/bin:$PATH
 
 # maven
-export MAVEN_HOME=/opt/maven
-export PATH=$MAVEN_HOME/bin:$PATH
+# export MAVEN_HOME=/opt/maven
+# export PATH=$MAVEN_HOME/bin:$PATH
 
 # spring boot cli
-export SPRING_HOME=/opt/spring
-export PATH=$SPRING_HOME/bin:$PATH
+# export SPRING_HOME=/opt/spring
+# export PATH=$SPRING_HOME/bin:$PATH
 
 # spicetify
-export PATH=$PATH:$HOME/.spicetify
+# export PATH=$PATH:$HOME/.spicetify
