@@ -36,26 +36,26 @@ export GO111MODULE=on
 export GOPROXY=https://goproxy.cn
 
 # pip binary
-export PATH=$PATH:$HOME/.local/bin
+# export PATH=$PATH:$HOME/.local/bin
 
 # NDK
-export ANDROID_NDK_HOME=$HOME/Android/Sdk/ndk/25.2.9519653
+# export ANDROID_NDK_HOME=$HOME/Android/Sdk/ndk/25.2.9519653
 
 # flutter
-export PATH=/usr/local/flutter/bin:$PATH
+# export PATH=/usr/local/flutter/bin:$PATH
 # export PUB_HOSTED_URL=https://pub.flutter-io.cn
 # export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 
 # Android
-export ANDROOID_SDK_HONE=$HOME/Android/Sdk
-export PATH=$ANDROOID_SDK_HONE/platform-tools:$PATH
-export PATH=$ANDROOID_SDK_HONE/cmdline-tools/latest/bin:$PATH
+# export ANDROOID_SDK_HONE=$HOME/Android/Sdk
+# export PATH=$ANDROOID_SDK_HONE/platform-tools:$PATH
+# export PATH=$ANDROOID_SDK_HONE/cmdline-tools/latest/bin:$PATH
 
 # snap
 # export PATH=/snap/bin:$PATH
 
 # Java
-export JAVA_HOME=$HOME/.jdks/openjdk-17.0.1
+# export JAVA_HOME=$HOME/.jdks/openjdk-17.0.1
 
 # nodejs
 # NODE_VERSION=v16.16.0
