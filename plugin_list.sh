@@ -18,7 +18,6 @@
 
 plugins=(
     k
-    adb
     git
     emoji
     sublime
