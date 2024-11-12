@@ -17,7 +17,6 @@
 
 
 plugins=(
-    k
     git
     emoji
     sublime
