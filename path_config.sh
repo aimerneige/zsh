@@ -36,7 +36,7 @@ export GO111MODULE=on
 export GOPROXY=https://goproxy.cn
 
 # pip binary
-# export PATH=$PATH:$HOME/.local/bin
+export PATH=$PATH:$HOME/.local/bin
 
 # NDK
 # export ANDROID_NDK_HOME=$HOME/Android/Sdk/ndk/25.2.9519653
