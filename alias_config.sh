@@ -63,3 +63,6 @@ alias pec="python -m venv ./.venv"
 alias ped="deactivate"
 alias pes="pip freeze > requirements.txt"
 alias pei="pip install -r requirements.txt"
+alias neofetch="fastfetch"
+alias drp="dotnet run --project"
+alias dockerls='docker container ls --format "table {{.ID}}\t{{.Names}}\t{{.Image}}"'
