@@ -15,6 +15,9 @@
 # GitHub https://github.com/AimerNeige
 
 
+# claude-code
+export PATH="$HOME/claude-model/bin:$PATH"
+
 # From Bash
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 
